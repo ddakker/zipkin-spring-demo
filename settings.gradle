@@ -1,0 +1,4 @@
+rootProject.name = 'zipkin-spring-demo'
+
+include 'web-home'
+include 'web-api'
